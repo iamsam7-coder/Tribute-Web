@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A.P.J Abdul Kalam</title>
+    <style>
+      .body{
+        margin: 0%;
+        padding: 0%;
+        background-color: rgb(196, 208, 208);
+
+      } 
+      .header{
+        background-color: blueviolet;
+        border: 0px;
+        margin: 0%;
+        padding: 0%;
+        font-size: large;
+        text-align: center;
+        font-weight: 500;
+        color: white;
+        padding: 20px;
+        margin-bottom: 20px;
+      }
+      .divison{
+        background-color: #ffffff;
+        padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+      }
+      .divison2 {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.footer{
+    background-color: blueviolet;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: medium;
+    color: white;
+    text-align: center;
+}
+    </style>
+</head>
+<body class="body">
+   <h1 class="header">Tribute To A.P.J Abdul Kalam</h1> 
+   <div class="divison"><img src="Screenshot 2025-04-19 133608.png" alt="apj kalam">
+    <h1>About A.P.J Abdul Kalam</h1>
+    <p>Born and raised in a Muslim family in Rameswaram, Tamil Nadu, Kalam studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts. He was known as the "Missile Man of India" for his work on the development of ballistic missile and launch vehicle technology. He also played a pivotal organisational, technical, and political role in Pokhran-II nuclear tests in 1998, India's second such test after the first test in 1974.</p></div>
+    <div class="divison2"><h1>Achievements</h1>
+        <p><ul>
+        <li>India's first Indigenous Hovercraft.</li>
+        <li>India's first Satellite Launch Vehicle.</li>
+        <li>In DRDO, Kalam was responsible for designing helicopters for the Indian Army. </li>
+        <li>Bharat Ratna: He received India's highest civilian honor, the Bharat Ratna, in 1997. </li>
+       </ul></p></div>
+   <footer class="footer">&copy; created by sam.All rights reserved</footer>
+</body>
+</html>
